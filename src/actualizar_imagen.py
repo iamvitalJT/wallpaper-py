@@ -54,3 +54,4 @@ draw.text((x, y), texto, font=fuente, fill=(255, 255, 255))
 
 # 💾 Guardar como 'dias.jpg' (sin tocar base.jpg)
 img.save(ruta_salida, format="JPEG", quality=95)
+print("\nSe ha ejecutado correctamente\n")
