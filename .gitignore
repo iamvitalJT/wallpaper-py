@@ -8,8 +8,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Personal assets (add your own)
-assets/
 
 # OS generated files
 .DS_Store
